@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Victoria Memorial",
+    "city": "Kolka",
+    "address": "Victoria Memorial,Kolkata",
+    "distance": 300,
+    "price": 79200,
+    "maxGroupSize": 10,
+    "desc": "The Victoria Memorial is a large marble monument dedicated to Queen Victoria, the Empress of India (1876-1901) facing the Queens Way on the Maidan in Central Kolkata. It was built between 1906 and 1921 by the British Raj. It is the largest monument to a monarch anywhere in the world. It stands at 64 acres of gardens and is now a museum under the control of the Ministry of Culture, Government of India.[1] Possessing prominent features of the Indo-Saracenic architecture, it has evolved into one of the most popular attractions in the city.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img01.jpg",
+    "featured": true
+  },
+  {
+    "title": "Indian Museum",
+    "city": "Kolkata",
+    "address": "Indian Museum,Kolkata",
+    "distance": 400,
+    "price": 76800,
+    "maxGroupSize": 8,
+    "desc": "The Indian Museum is a massive museum in Central Kolkata, West Bengal, India. It is the ninth oldest museum in the world and the oldest and largest museum in India and Asia, by size of collection.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img02.jpg",
+    "featured": true
+  },
+  {
+    "title": "Science City",
+    "city": "Kolkata",
+    "address": "Science,Kolkata",
+    "distance": 500,
+    "price": 60800,
+    "maxGroupSize": 8,
+    "desc": "The Science City, one of its kind in India, inaugurated on 1st July,1997 has been developed as a major attraction for the residents’ of Kolkata as well as for the national and international visitors to the metropolis",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img03.jpg",
+    "featured": true
+  },
+  {
+    "title": "M.P Birla",
+    "city": "Kolkata",
+    "address": "M.P Birla,Kolkata",
+    "distance": 500,
+    "price": 68000,
+    "maxGroupSize": 8,
+    "desc": "The Birla Planetarium in Kolkata, West Bengal, India, is a single-storeyed circular structure designed in the typical Indian style, whose architecture is loosely styled on the Buddhist Stupa at Sanchi",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img04.jpg",
+    "featured": true
+  },
+  {
+    "title": "Jorasanko Thakur Bari",
+    "city": "Kolkata",
+    "address": "Rabindra Sarani, West Bengal",
+    "distance": 500,
+    "price": 60000,
+    "maxGroupSize": 8,
+    "desc": "The Jorasanko Thakur Bari was built in the 18th century in Jorasanko in the north of Kolkata. The land on which this ancestral home stands today was donated by the famous Sett family (not to be confused with Seth) of Burrabazar to Prince Dwarkanath Tagore, who was the grandfather of Rabindranath Tagore.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img05.jpg",
+    "featured": true
+  },
+  {
+    "title": "Eco-Park",
+    "city": "Kolkata",
+    "address": "New-Town,Kolkata",
+    "distance": 500,
+    "price": 30,
+    "maxGroupSize": 8,
+    "desc": "Eco Park (or Prakriti Tirtha) is an urban park in New Town, Greater Kolkata, India.[2] With an area of 480 acres (190 ha) (including a 104 acres (42 ha) waterbody with an island in the middle), Eco Park is the largest urban park in India.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img06.jpg",
+    "featured": true
+  },
+  {
+    "title": "Nicco-Park",
+    "city": "Kolkata",
+    "address": "Bidhannagar, West Bengal",
+    "distance": 500,
+    "price": 500,
+    "maxGroupSize": 8,
+    "desc": "Nicco Park is an amusement park located in Jheel Meel, Sector - IV of Bidhannagar, West Bengal, India. The park was created to attract tourists to the state by providing family-friendly recreation as well as educative entertainment. ",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img07.jpg",
+    "featured": true
+  },
+  {
+    "title": "Alipore-Zoo",
+    "city": "Kolkata",
+    "address": "Alipore, Kolkata",
+    "distance": 500,
+    "price": 50,
+    "maxGroupSize": 8,
+    "desc": "The Zoological Garden, Alipore (also informally called the Alipore Zoo or Kolkata Zoo) is India's oldest formally stated zoological park (as opposed to royal and British menageries) and a big tourist attraction in Kolkata, West Bengal.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img03.jpg",
+    "featured": true
+  },
+  {
+    "title": "Mother's Wax Museum",
+    "city": "Kolkata",
+    "address": "Bidhanagar, Kolkata",
+    "distance": 100,
+    "price": 250,
+    "maxGroupSize": 5,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img08.jpg",
+    "featured": false
+  },
+  {
+    "title": "Cox's Bazar Sea Beach-2",
+    "city": "Chittagong",
+    "address": "Somewhere in Chittagong",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img09.jpg",
+    "featured": false
+  }
+]
